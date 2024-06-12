@@ -5,6 +5,7 @@ Usage
 Clone the repository:
 
 git clone https://github.com/your-username/MNIST-CNN-Classifier.git
+
 cd MNIST-CNN-Classifier
 
 Install the required dependencies:
@@ -13,7 +14,6 @@ pip install torch torchvision matplotlib
 
 Run the main script to train the model, evaluate its performance, and visualize predictions:
 
-Copy code
 python main.py
 
 The script will train the model for 9 epochs, evaluate its performance on the test set, and display a 10x10 grid of test images with predicted and true labels.
