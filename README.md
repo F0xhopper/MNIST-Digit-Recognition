@@ -4,7 +4,7 @@ Usage
 
 Clone the repository:
 
-git clone https://github.com/F0xhopper/MNIST-CNN-Classifier.git
+git clone https://github.com/F0xhopper/MNIST-CNN-Classifier
 
 cd MNIST-CNN-Classifier
 
